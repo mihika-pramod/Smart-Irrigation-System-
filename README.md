@@ -1,4 +1,4 @@
-# Smart Irrigation System (IoT)
+# Smart Irrigation System using ESP32 and Blynk (IoT Project)
 This project implements an IoT-based Smart Irrigation System using ESP32 and a soil moisture sensor.  
 The system continuously monitors soil moisture levels and automatically activates a water pump when the soil becomes too dry.
 The project integrates with the Blynk IoT platform to allow real-time monitoring and remote control of the irrigation system through a mobile application.
